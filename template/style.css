@@ -1,0 +1,50 @@
+*{
+    outline: 0;
+    border: none;
+    text-decoration: none;
+    white-space: normal;
+}
+
+.opacity,
+.hover-opacity:hover{
+    opacity:0.60
+}
+
+.text-input { 
+    width: 100%; 
+    margin: 10px 0px 10px 0px; 
+    padding: 10px; 
+    border:1px solid #ccc;
+}
+
+.badges {
+    background-color:#000;
+    color:#fff;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    text-align:center;
+    font-size: 12px;
+}
+
+.icon-button-bar {
+    display: none;
+    padding: 12px 24px!important;
+    float:left;
+    width:auto;
+    display:block;
+    outline: 0;
+}
+
+.icon-button-bar:hover{
+    color: #000;
+    background-color: #fff;
+}
+
+.bar-item {
+    padding:8px 16px;
+    float:left;
+    width:auto;
+    display:block;
+    outline:0
+}
